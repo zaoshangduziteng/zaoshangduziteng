@@ -16,9 +16,7 @@
 
 <br/><br/>
 
-<a href="https://github.com/zaoshangduziteng/Editorial-IP-Visuals">
-  <img src="https://raw.githubusercontent.com/zaoshangduziteng/Editorial-IP-Visuals/main/assets/examples/ai-model-cover-wide.png" width="100%" alt="Editorial IP Visuals" />
-</a>
+<img src="./assets/exec-2b1c2cfd-fd90-4b94-968b-4f404306ec80.png" width="100%" alt="Building in public · Skills, tools and projects" />
 
 </div>
 
