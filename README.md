@@ -1,67 +1,83 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=900&color=A4473A&center=true&vCenter=true&repeat=false&width=420&height=50&lines=zaoshangduziteng" alt="zaoshangduziteng" />
-<br/>
-<sub>开发点有意思的</sub>
-<br/>
-<sub>Building reusable visual systems as Codex skills.</sub>
 
-<br/><br/>
-
-<a href="https://github.com/zaoshangduziteng?tab=followers"><img src="https://img.shields.io/github/followers/zaoshangduziteng?style=flat-square&logo=github&color=A4473A&label=Followers" alt="GitHub followers" /></a>&nbsp;
-<a href="https://github.com/zaoshangduziteng/texture-scan-collage"><img src="https://img.shields.io/github/stars/zaoshangduziteng/texture-scan-collage?style=flat-square&logo=github&color=A4473A&label=Texture+Scan" alt="Texture Scan Collage stars" /></a>&nbsp;
-<a href="https://github.com/zaoshangduziteng/Editorial-IP-Visuals"><img src="https://img.shields.io/github/stars/zaoshangduziteng/Editorial-IP-Visuals?style=flat-square&logo=github&color=A4473A&label=Editorial+IP" alt="Editorial IP Visuals stars" /></a>
+<a href="https://github.com/zaoshangduziteng"><img src="https://img.shields.io/badge/GitHub-zaoshangduziteng-4F75B9?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
+<a href="mailto:d1206410946@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-E77722?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
+<img src="https://komarev.com/ghpvc/?username=zaoshangduziteng&style=flat-square&color=4F75B9&label=PROFILE+VIEWS" alt="Profile views" />
 
 <br/><br/>
 
 <img src="./assets/exec-2b1c2cfd-fd90-4b94-968b-4f404306ec80.png" width="100%" alt="Building in public · Skills, tools and projects" />
 
-</div>
-
 <br/>
 
-<div align="center">
-
-**Building**&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Codex-Skills-111111?style=flat-square&logo=openai&logoColor=white" alt="Codex Skills" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/Image-Automation-A4473A?style=flat-square" alt="Image automation" />
-<img src="https://img.shields.io/badge/Visual-Systems-A4473A?style=flat-square" alt="Visual systems" />
-<img src="https://img.shields.io/badge/Deterministic-QA-A4473A?style=flat-square" alt="Deterministic QA" />
+<strong>AIGC Designer → AI Product Manager · Indie Maker</strong>
 
 </div>
 
-<br/>
+## About Me
+
+从 AIGC 视觉设计出发，我正在转向 AI 产品经理，同时以独立制作者的方式持续构建 AI 应用、创作工具与可复用的 Skill。
+
+我关注的不只是 AI “能不能生成”，更关心它能否被设计成清晰、稳定、可复用的产品体验：从需求判断、交互原型到工作流与视觉交付，让一个想法真正变成可以使用、可以验证的应用。
+
+## What I'm Working On
+
+🎨 把 AIGC 视觉方法沉淀为可复用的 Skill 与创作工具
+
+🧭 从 AIGC 设计师转向 AI 产品经理，练习需求判断、产品定义与原型验证
+
+🧩 构建 AI 应用、AIGC 工作流与轻量产品原型
+
+🛠️ 以独立制作者的方式持续发布、验证和迭代自己的作品
+
+🔭 关注 AI 产品、设计工程与人机协作的新可能
+
+## Application Stack
+
+**AI 应用**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/AI-Product%20Design-4F75B9?style=flat-square" alt="AI Product Design" />
+  <img src="https://img.shields.io/badge/Workflow-Prototyping-4F75B9?style=flat-square" alt="Workflow Prototyping" />
+  <img src="https://img.shields.io/badge/Agent-Experience-4F75B9?style=flat-square" alt="Agent Experience" />
+</p>
+
+**AIGC 应用**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Image-Generation-E77722?style=flat-square" alt="Image Generation" />
+  <img src="https://img.shields.io/badge/Visual-Automation-E77722?style=flat-square" alt="Visual Automation" />
+  <img src="https://img.shields.io/badge/Codex-Skills-E77722?style=flat-square&logo=openai&logoColor=white" alt="Codex Skills" />
+</p>
+
+**设计应用**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Figma-496B59?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Photoshop-496B59?style=flat-square&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop" />
+  <img src="https://img.shields.io/badge/Illustrator-496B59?style=flat-square&logo=adobeillustrator&logoColor=white" alt="Adobe Illustrator" />
+</p>
+
+## Selected Builds
+
+| Repository | What it does |
+| --- | --- |
+| [`texture-scan-collage`](https://github.com/zaoshangduziteng/texture-scan-collage) | 将普通照片转换为精确对位的局部材质扫描框拼贴。 |
+| [`Editorial-IP-Visuals`](https://github.com/zaoshangduziteng/Editorial-IP-Visuals) | 为中文长内容建立固定 IP × 3D 编辑型配图系统。 |
+
+## Research & Writing
+
+从 AIGC 设计师到 AI 产品经理的转型实践
+
+AI 应用如何从想法走到可验证原型
+
+把视觉判断封装成可复用的 AIGC Skill
+
+独立制作者的 AI 产品构建与发布记录
+
+## Contribution Snake
 
 <div align="center">
-
-### Selected builds
-
-| Repository | What it does | |
-| --- | --- | --- |
-| [`texture-scan-collage`](https://github.com/zaoshangduziteng/texture-scan-collage) | Spatially aligned, non-destructive texture-scan photo collages. | ![](https://img.shields.io/github/stars/zaoshangduziteng/texture-scan-collage?style=flat-square&logo=github&label=&color=A4473A) |
-| [`Editorial-IP-Visuals`](https://github.com/zaoshangduziteng/Editorial-IP-Visuals) | Fixed IP × 3D editorial visuals for Chinese long-form content. | ![](https://img.shields.io/github/stars/zaoshangduziteng/Editorial-IP-Visuals?style=flat-square&logo=github&label=&color=A4473A) |
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### GitHub activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=zaoshangduziteng&show_icons=true&title_color=C96A5C&text_color=c9d1d9&icon_color=C96A5C&bg_color=00000000&hide_border=true&include_all_commits=true&rank_icon=github" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api?username=zaoshangduziteng&show_icons=true&title_color=A4473A&text_color=24292f&icon_color=A4473A&bg_color=00000000&hide_border=true&include_all_commits=true&rank_icon=github" />
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=zaoshangduziteng&show_icons=true&title_color=A4473A&text_color=24292f&icon_color=A4473A&bg_color=00000000&hide_border=true&include_all_commits=true&rank_icon=github" height="175" alt="GitHub stats" />
-</picture>
-&nbsp;&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=zaoshangduziteng&title_color=C96A5C&text_color=c9d1d9&bg_color=00000000&hide_border=true&layout=compact&langs_count=6" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=zaoshangduziteng&title_color=A4473A&text_color=24292f&bg_color=00000000&hide_border=true&layout=compact&langs_count=6" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=zaoshangduziteng&title_color=A4473A&text_color=24292f&bg_color=00000000&hide_border=true&layout=compact&langs_count=6" height="175" alt="Top languages" />
-</picture>
-
-<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zaoshangduziteng/zaoshangduziteng/output/github-snake-dark.svg" />
@@ -69,12 +85,8 @@
   <img src="https://raw.githubusercontent.com/zaoshangduziteng/zaoshangduziteng/output/github-snake.svg" alt="Contribution snake" />
 </picture>
 
-<br/><br/>
+<br/>
 
-<sub>Building in public, one visual system at a time.</sub>
-
-<br/><br/>
-
-[![](https://komarev.com/ghpvc/?username=zaoshangduziteng&color=A4473A&style=flat-square&label=PROFILE+VIEWS)](https://github.com/zaoshangduziteng)
+<sub>Designing with AI. Building in public.</sub>
 
 </div>
