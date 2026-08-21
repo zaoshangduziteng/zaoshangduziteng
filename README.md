@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=900&color=A4473A&center=true&vCenter=true&repeat=false&width=420&height=50&lines=zaoshangduziteng" alt="zaoshangduziteng" />
 <br/>
-<sub>把可复用的视觉系统，装进 Codex Skill</sub>
+<sub>开发点有意思的</sub>
 <br/>
 <sub>Building reusable visual systems as Codex skills.</sub>
 
