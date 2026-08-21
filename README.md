@@ -6,6 +6,12 @@
 
 <br/><br/>
 
+<a href="https://github.com/zaoshangduziteng">
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&amp;weight=700&amp;size=32&amp;duration=2200&amp;pause=900&amp;color=A4473A&amp;center=true&amp;vCenter=true&amp;width=900&amp;height=76&amp;lines=%E6%97%A9%E4%B8%8A%E8%82%9A%E5%AD%90%E7%96%BC" alt="早上肚子疼" />
+</a>
+
+<br/>
+
 <img src="./assets/exec-2b1c2cfd-fd90-4b94-968b-4f404306ec80.png" width="100%" alt="Building in public · Skills, tools and projects" />
 
 <br/>
@@ -34,7 +40,7 @@
 
 ## Three Hats
 
-<table>
+<table width="100%">
   <tr>
     <td width="33%" align="center" valign="top">
       <h3>🧭 AI Product Manager</h3>
