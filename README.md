@@ -10,13 +10,13 @@
 
 <br/>
 
-<strong>AIGC Designer → AI Product Manager · Indie Maker</strong>
+<strong>AI Product Manager · AIGC Designer · Indie Maker</strong>
 
 </div>
 
 ## About Me
 
-从 AIGC 视觉设计出发，我正在转向 AI 产品经理，同时以独立制作者的方式持续构建 AI 应用、创作工具与可复用的 Skill。
+从 AIGC 设计师转型为 AI 产品经理，现在我也以独立制作者的方式持续构建 AI 应用、创作工具与可复用的 Skill。
 
 我关注的不只是 AI “能不能生成”，更关心它能否被设计成清晰、稳定、可复用的产品体验：从需求判断、交互原型到工作流与视觉交付，让一个想法真正变成可以使用、可以验证的应用。
 
@@ -24,13 +24,44 @@
 
 🎨 把 AIGC 视觉方法沉淀为可复用的 Skill 与创作工具
 
-🧭 从 AIGC 设计师转向 AI 产品经理，练习需求判断、产品定义与原型验证
+🧭 将 AIGC 设计经验融入 AI 产品，持续进行需求判断、产品定义与原型验证
 
 🧩 构建 AI 应用、AIGC 工作流与轻量产品原型
 
 🛠️ 以独立制作者的方式持续发布、验证和迭代自己的作品
 
 🔭 关注 AI 产品、设计工程与人机协作的新可能
+
+## Three Hats
+
+<table>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <h3>🧭 AI Product Manager</h3>
+      <img src="https://img.shields.io/badge/CURRENT-ROLE-4F75B9?style=flat-square" alt="Current role" />
+      <br/><br/>
+      <strong>需求判断 · 产品定义 · 原型验证</strong>
+      <br/><br/>
+      <sub>把 AI 能力变成可以使用、可以验证的产品。</sub>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h3>🎨 AIGC Designer</h3>
+      <img src="https://img.shields.io/badge/CORE-SKILL-E77722?style=flat-square" alt="Core skill" />
+      <br/><br/>
+      <strong>视觉系统 · 图像生成 · 设计质检</strong>
+      <br/><br/>
+      <sub>把视觉判断沉淀为稳定、可复用的创作方法。</sub>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h3>🛠️ Indie Maker</h3>
+      <img src="https://img.shields.io/badge/BUILD-IN%20PUBLIC-496B59?style=flat-square" alt="Build in public" />
+      <br/><br/>
+      <strong>Codex Skills · 公开构建 · 持续发布</strong>
+      <br/><br/>
+      <sub>独立完成从想法、制作到发布与迭代。</sub>
+    </td>
+  </tr>
+</table>
 
 ## Application Stack
 
@@ -67,7 +98,7 @@
 
 ## Research & Writing
 
-从 AIGC 设计师到 AI 产品经理的转型实践
+从 AIGC 设计师到 AI 产品经理的转型复盘
 
 AI 应用如何从想法走到可验证原型
 
