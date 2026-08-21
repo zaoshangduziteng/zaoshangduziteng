@@ -4,10 +4,10 @@
 <a href="mailto:d1206410946@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-E77722?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
 <img src="https://komarev.com/ghpvc/?username=zaoshangduziteng&style=flat-square&color=4F75B9&label=PROFILE+VIEWS" alt="Profile views" />
 
-<br/><br/>
+<br/>
 
 <a href="https://github.com/zaoshangduziteng">
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&amp;weight=700&amp;size=32&amp;duration=2200&amp;pause=900&amp;color=A4473A&amp;center=true&amp;vCenter=true&amp;width=900&amp;height=76&amp;lines=%E6%97%A9%E4%B8%8A%E8%82%9A%E5%AD%90%E7%96%BC" alt="早上肚子疼" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=28&amp;duration=2200&amp;pause=900&amp;color=A4473A&amp;center=true&amp;vCenter=true&amp;width=560&amp;height=48&amp;lines=zaoshangduziteng" alt="zaoshangduziteng" />
 </a>
 
 <br/>
